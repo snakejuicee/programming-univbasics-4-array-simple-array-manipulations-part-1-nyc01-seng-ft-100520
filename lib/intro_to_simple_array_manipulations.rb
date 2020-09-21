@@ -1,4 +1,10 @@
 def using_push(array, string)
+  
+  array = ["red", "yellow"]
+  
+  string = "next_color"
+  
+  last = array.push(string)
 
 end
 
